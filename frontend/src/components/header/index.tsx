@@ -1,7 +1,7 @@
 
-import logo from '../../assets/img/header-icon.svg'
+import logo from '../../assets/img/header-icon.svg';
 
-import './styles.css'
+import './styles.css';
 
 function Header() {
   return(
@@ -18,4 +18,4 @@ function Header() {
   )
 }
 
-export default Header
+export default Header;
